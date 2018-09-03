@@ -42,4 +42,4 @@ The only things changed from our base config are that we are exporting a functio
 
 > This is a contrived example; devtool defaults to off for production and `'eval'` for development mode anyway.
 
-Back to the [index](/).
+Back to the [index](/README.md).
