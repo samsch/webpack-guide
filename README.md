@@ -11,7 +11,7 @@ The content covered in that post covers parts of Webpack that apply to almost an
 These are some basics which cover general Webpack configuration topics.
 
 - [Development only configuration options](/Development%20Only%20Configuration.md)
-- *Using Webpack plugins* Coming Soon!
+- [Using Webpack plugins](/Using%20Webpack%20Plugins.md)
 
 These next guides cover more specific topics, but in a more succinct format where instead of walking through the setup, they show you the finished configuration and explain what was added and what it does.
 
