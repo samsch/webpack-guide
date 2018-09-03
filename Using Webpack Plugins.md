@@ -42,4 +42,4 @@ module.exports = {
 
 When you run Webpack with this config, an extra file (`manifest.json`) is output, which maps the entrypoint names to the actual filenames. Since we changed our output filename to `[hash].main.js`, Webpack will include a short hash of the content in the name (so the name changes when the build output changes). If we wanted to programmatically use the filename in a server side html template, we can get the filename by importing the `manifest.json` file and using the entrypoint name (in our case, the default "main" translates to an entrypoint name "main.js". If you use named entrypoints it will use the given name + ".js").
 
-Back to the [index](/).
+Back to the [index](/README.md).
