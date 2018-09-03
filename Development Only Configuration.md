@@ -41,3 +41,5 @@ module.exports = function (env, argv) {
 The only things changed from our base config are that we are exporting a function that returns are config, and that our function checks whether the mode is production to set the `devtool` option.
 
 > This is a contrived example; devtool defaults to off for production and `'eval'` for development mode anyway.
+
+Back to the [index](/).
