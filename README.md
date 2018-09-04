@@ -15,7 +15,7 @@ These are some basics which cover general Webpack configuration topics.
 
 These next guides cover more specific topics, but in a more succinct format where instead of walking through the setup, they show you the finished configuration and explain what was added and what it does.
 
-- *Code splitting (Separate a tree of your application)* Coming soon!
+- [Code splitting (Separate a tree of your application)](/Code%20splitting.md)
 - *Importing stylesheets* Coming soon!
 - *Importing static assets* Coming soon!
 - *Transforming non-JS code into JS (such as JSX, Typescript, Flow, and JavaScript proposal features)* Coming soon!
