@@ -4,7 +4,7 @@ Webpack is a powerful tool for bundling browser code. In the last several years 
 
 On my blog, you can find a decent getting started guide, which takes you from scratch to a basic setup with babel-loader for compiling modern JavaScript syntax.
 
-- [Getting Started with Webpack v4](https://samsch.org/2018/09/02/how-to-setup-webpack-v4)
+- [Getting Started with Webpack v4](https://samsch.org/2018/09/04/how-to-setup-webpack-v4)
 
 The content covered in that post covers parts of Webpack that apply to almost any configuration. Frequently you want to do more than just bundling a single entrypoint and supporting older browsers.
 
